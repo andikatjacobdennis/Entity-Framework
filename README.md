@@ -1,7 +1,3 @@
-Here's a README for your Entity Framework documentation:
-
----
-
 # Entity Framework Practice Repository
 
 Welcome to the Entity Framework Practice Repository! This repository contains a comprehensive guide and examples for working with Entity Framework (EF) in .NET applications. It covers setup, model definition, data seeding, migrations, repository patterns, and various loading techniques.
@@ -81,7 +77,3 @@ This repository is licensed under the MIT License. See the [LICENSE.md](LICENSE.
 For any questions or feedback, please open an issue or contact me directly at andikatjacobdennis@gmail.com.
 
 Happy coding and exploring Entity Framework!
-
----
-
-Feel free to adjust the links and content based on the actual filenames and content of your repository.
